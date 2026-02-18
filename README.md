@@ -165,24 +165,13 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=imraneggy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="680"/>
+<img width="660" src="https://streak-stats.demolab.com?user=imraneggy&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=2E86C1&ring=2E86C1&fire=2E86C1&currStreakNum=FFFFFF&currStreakLabel=2E86C1&sideLabels=1A5276&sideNums=AED6F1&dates=AED6F1&border_radius=6" alt="GitHub Streak"/>
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=imraneggy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=2e86c1&icon_color=2e86c1&text_color=aed6f1&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraneggy&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e86c1&text_color=aed6f1" alt="Top Languages"/>
-
-<br/>
-
-<img width="600" src="https://streak-stats.demolab.com?user=imraneggy&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a5276&ring=2e86c1&fire=2e86c1&currStreakNum=ffffff&currStreakLabel=2e86c1&sideLabels=1a5276&sideNums=aed6f1&dates=aed6f1" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=imraneggy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2e86c1&line=2e86c1&point=ffffff&area=true&area_color=1a5276" alt="Activity Graph"/>
+<img width="660" src="https://github-readme-activity-graph.vercel.app/graph?username=imraneggy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2e86c1&line=2e86c1&point=ffffff&area=true&area_color=1a5276" alt="Contribution Activity"/>
 
 </div>
-
 ---
 
 ## Professional Experience
