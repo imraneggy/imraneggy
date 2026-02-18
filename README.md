@@ -165,13 +165,17 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imraneggy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=2e86c1&icon_color=1a5276&text_color=aed6f1"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=imraneggy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=2e86c1&icon_color=2e86c1&text_color=aed6f1&include_all_commits=true&rank_icon=github" alt="Imran GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraneggy&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e86c1&text_color=aed6f1"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraneggy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e86c1&text_color=aed6f1&card_width=320" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imraneggy&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a5276&ring=2e86c1&fire=2e86c1&currStreakNum=ffffff&currStreakLabel=2e86c1&sideLabels=1a5276&sideNums=aed6f1&dates=aed6f1"/>
+<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=imraneggy&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a5276&ring=2e86c1&fire=2e86c1&currStreakNum=ffffff&currStreakLabel=2e86c1&sideLabels=1a5276&sideNums=aed6f1&dates=aed6f1" alt="GitHub Streak"/>
+
+<br/>
+
+<img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=imraneggy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2e86c1&line=2e86c1&point=ffffff&area=true&area_color=1a5276" alt="Activity Graph"/>
 
 </div>
 
