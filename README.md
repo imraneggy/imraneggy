@@ -148,16 +148,16 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 
 | | Certification | Issuer | Year |
 |:--|:-------------|:-------|:-----|
-| STAR | **CISM** — Certified Information Security Manager | ISACA | Jan 2026 |
-| CLOUD | **OCI 2025** — Generative AI Professional | Oracle | 2025 |
-| CLOUD | **OCI 2025** — Multicloud Architect Professional | Oracle | 2025 |
-| AI | **OCI 2025** — AI Foundations Associate | Oracle | 2025 |
-| CLOUD | **OCI 2025** — Foundations Associate | Oracle | 2025 |
-| WIN | **AZ-900** — Microsoft Azure Fundamentals | Microsoft | 2024 |
-| SEC | **CWHH** — Certified White Hat Hacker (L1 & L2) | — | 2023 |
-| SEC | **C-WAST** — Certified Web Application Security Tester | — | 2023 |
-| AUDIT | **ISMS Trained Auditor** — ISO 27001 | — | 2022 |
-| NET | **CCNA** — Cisco Certified Network Associate | Cisco | 2021 |
+| ⭐ | **CISM** — Certified Information Security Manager | ISACA | Jan 2026 |
+| ☁️ | **OCI 2025** — Generative AI Professional | Oracle | 2025 |
+| ☁️ | **OCI 2025** — Multicloud Architect Professional | Oracle | 2025 |
+| 🤖 | **OCI 2025** — AI Foundations Associate | Oracle | 2025 |
+| ☁️ | **OCI 2025** — Foundations Associate | Oracle | 2025 |
+| 🪟 | **AZ-900** — Microsoft Azure Fundamentals | Microsoft | 2024 |
+| 🔓 | **CWHH** — Certified White Hat Hacker (L1 & L2) | — | 2023 |
+| 🔓 | **C-WAST** — Certified Web Application Security Tester | — | 2023 |
+| 📋 | **ISMS Trained Auditor** — ISO 27001 | — | 2022 |
+| 🌐 | **CCNA** — Cisco Certified Network Associate | Cisco | 2021 |
 
 ---
 
@@ -171,7 +171,7 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 
 <br/>
 
-<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=imraneggy&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a5276&ring=2e86c1&fire=2e86c1&currStreakNum=ffffff&currStreakLabel=2e86c1&sideLabels=1a5276&sideNums=aed6f1&dates=aed6f1" alt="GitHub Streak"/>
+<img width="600" src="https://streak-stats.demolab.com?user=imraneggy&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a5276&ring=2e86c1&fire=2e86c1&currStreakNum=ffffff&currStreakLabel=2e86c1&sideLabels=1a5276&sideNums=aed6f1&dates=aed6f1" alt="GitHub Streak"/>
 
 <br/>
 
