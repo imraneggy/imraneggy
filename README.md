@@ -165,9 +165,13 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=imraneggy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=2e86c1&icon_color=2e86c1&text_color=aed6f1&include_all_commits=true&rank_icon=github" alt="Imran GitHub Stats"/>
+<img src="https://github-profile-trophy.vercel.app/?username=imraneggy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="680"/>
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=imraneggy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=2e86c1&icon_color=2e86c1&text_color=aed6f1&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraneggy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e86c1&text_color=aed6f1&card_width=320" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraneggy&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e86c1&text_color=aed6f1" alt="Top Languages"/>
 
 <br/>
 
