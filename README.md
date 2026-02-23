@@ -22,10 +22,11 @@
 
 | | |
 |:---|:---|
+| **Name** | Imran Batcha |
 | **Current Role** | Cyber Security Analyst — Enterprise Security Operations |
 | **Certifications** | CISM (2026) · OCI Multicloud Architect · OCI Gen AI Pro · AZ-900 · CWHH · CCNA |
 | **Experience** | 7+ years in Cybersecurity, AI Development & Cloud Security |
-| **Education** | M.Sc. Cyber Forensics & Information Security — Madras University |
+| **Education** | M.Sc. Cyber Forensics & Information Security |
 | **Superpower** | Building **$0-cost AI security platforms** that outperform **$200K/year** solutions |
 | **Currently Building** | AI Autonomous Pentest Platform · Cyber Intelligence Dashboard · Zero Trust Architecture |
 | **Contact** | [LinkedIn](https://linkedin.com/in/imranbatcha) |
@@ -51,7 +52,7 @@
 ## Flagship AI Security Projects
 
 ### AI-Powered Autonomous Penetration Testing Platform
-> Personal R&D · Deployed on NVIDIA Jetson Orin Nano 8GB Edge Device
+> Personal R&D · Production Enterprise · Deployed on NVIDIA Jetson Orin Nano 8GB Edge Device
 
 ```
 Mission  : Autonomous pentesting platform replacing $200K/yr manual security services
@@ -171,7 +172,7 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 <img width="660" src="https://github-readme-activity-graph.vercel.app/graph?username=imraneggy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2e86c1&line=2e86c1&point=ffffff&area=true&area_color=1a5276" alt="Contribution Activity"/>
 
 </div>
----
+
 
 ## Professional Experience
 
@@ -203,7 +204,7 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 > *"The best security system is one that is invisible, intelligent, and costs nothing to run.*
 > *AI is the key that makes all three possible — simultaneously."*
 >
-> — **@imraneggy** | CISM
+> — **Imran Batcha** | CISM | [@imraneggy](https://github.com/imraneggy)
 
 ---
 
@@ -218,7 +219,7 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 
 <br/>
 
-*Securing systems · Building intelligence*
+*Securing systems · Building intelligence · Abu Dhabi, UAE*
 
 <br/>
 
