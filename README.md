@@ -218,7 +218,6 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-imranbatchait%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranbatchait@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B971_050_602_9903-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/971050602903)
 
 <br/>
 
