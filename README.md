@@ -22,14 +22,13 @@
 
 | | |
 |:---|:---|
-| **Name** | Imran Batcha |
-| **Current Role** | Cyber Security Analyst — Ali & Sons Holdings LLC, Abu Dhabi, UAE |
+| **Current Role** | Cyber Security Analyst — Enterprise Security Operations |
 | **Certifications** | CISM (2026) · OCI Multicloud Architect · OCI Gen AI Pro · AZ-900 · CWHH · CCNA |
 | **Experience** | 7+ years in Cybersecurity, AI Development & Cloud Security |
 | **Education** | M.Sc. Cyber Forensics & Information Security — Madras University |
 | **Superpower** | Building **$0-cost AI security platforms** that outperform **$200K/year** solutions |
 | **Currently Building** | AI Autonomous Pentest Platform · Cyber Intelligence Dashboard · Zero Trust Architecture |
-| **Contact** | [imranbatchait@gmail.com](mailto:imranbatchait@gmail.com) · [LinkedIn](https://linkedin.com/in/imranbatcha) |
+| **Contact** | [LinkedIn](https://linkedin.com/in/imranbatcha) |
 
 ---
 
@@ -77,7 +76,7 @@ ROI      : $200K+ saved annually · $0/month cloud cost · 40% less false positi
 ---
 
 ### AI-Assisted Cybersecurity Intelligence Dashboard
-> Production Enterprise · Ali & Sons Holdings · C-Suite Executive Reporting
+> Production Enterprise · C-Suite Executive Reporting
 
 ```
 Mission  : Zero-cost AI cyber intelligence replacing $500–$2K/month cloud APIs
@@ -176,7 +175,7 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 
 ## Professional Experience
 
-**Cyber Security Analyst** | Ali & Sons Holdings LLC | Abu Dhabi, UAE | *Sep 2025 – Present*
+**Cyber Security Analyst** | Enterprise Organization | *Sep 2025 – Present*
 
 - Deployed **Trend Micro Vision One XDR** across enterprise infrastructure — **45% faster MTTD**, 50% reduction in triage time
 - Discovered **320+ shadow IT assets** via Attack Surface Management — visibility increased by **60%**
@@ -186,7 +185,7 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 - Engineered AI-Powered Autonomous Pentest Platform on NVIDIA Jetson Orin Nano — **$200,000+ annual savings**
 - Built AI Cyber Intelligence Dashboard at **$0 cloud cost** — delivers daily briefings to C-suite executives
 
-**Cyber Security Manager** | Cholamandalam Investment & Finance Co. Ltd | Chennai, India | *Jun 2021 – Sep 2025*
+**Cyber Security Manager** | Financial Services Organization | *Jun 2021 – Sep 2025*
 
 - Led **Palo Alto Prisma Cloud CNAPP** deployment across AWS, OCI, Kubernetes — **30% reduction** in critical vulnerabilities
 - Improved multi-stage attack detection by **300%** via XDR and SIEM cross-layer integration
@@ -204,7 +203,7 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 > *"The best security system is one that is invisible, intelligent, and costs nothing to run.*
 > *AI is the key that makes all three possible — simultaneously."*
 >
-> — **Imran Batcha** | CISM | [@imraneggy](https://github.com/imraneggy)
+> — **@imraneggy** | CISM
 
 ---
 
@@ -216,12 +215,10 @@ FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imranbatcha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imranbatcha)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-imranbatchait%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranbatchait@gmail.com)
-&nbsp;
 
 <br/>
 
-*Securing systems · Building intelligence · Abu Dhabi, UAE*
+*Securing systems · Building intelligence*
 
 <br/>
 
