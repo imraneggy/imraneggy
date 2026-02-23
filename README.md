@@ -29,7 +29,7 @@
 | **Education** | M.Sc. Cyber Forensics & Information Security — Madras University |
 | **Superpower** | Building **$0-cost AI security platforms** that outperform **$200K/year** solutions |
 | **Currently Building** | AI Autonomous Pentest Platform · Cyber Intelligence Dashboard · Zero Trust Architecture |
-| **Contact** | [imranbatchait@gmail.com](mailto:imranbatchait@gmail.com) · [LinkedIn](https://linkedin.com/in/imranbatcha) · +971 050 602 9903 |
+| **Contact** | [imranbatchait@gmail.com](mailto:imranbatchait@gmail.com) · [LinkedIn](https://linkedin.com/in/imranbatcha) |
 
 ---
 
