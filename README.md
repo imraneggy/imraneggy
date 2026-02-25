@@ -55,24 +55,28 @@
 > Personal R&D · Production Enterprise · Deployed on NVIDIA Jetson Orin Nano 8GB Edge Device
 
 ```
-Mission  : Autonomous pentesting platform replacing $200K/yr manual security services
+Mission  : AI-orchestrated autonomous pentesting + governance reporting platform for enterprise VAPT operations
 ---------------------------------------------------------------------------
-AI Core  : Claude 4.5 Sonnet + OpenAI GPT + Ollama/Llama 3 (local fallback)
-Tools    : Nmap · Nuclei · SQLMap · Wapiti — fully orchestrated by AI
-Backend  : Python · PostgreSQL · Redis · Celery async task queues
-API      : RESTful + WebSocket real-time vulnerability stream
-Reports  : Auto PDF/DOCX mapped to UAE-IA · ADHICS · NESA · ISO 27001
-Hardware : 8GB NVIDIA Jetson Orin Nano · 100% offline capable
+AI Core  : Local llama.cpp (Qwen2.5-3B GGUF) + OpenAI-assisted analysis/report generation
+Tools    : Katana · Nikto · Nuclei · SQLMap · Nmap — AI-orchestrated all-tools execution
+Backend  : Python FastAPI · Uvicorn · SQLite (auth, scan queue, audit, tool settings)
+Queue    : SQLite-backed dispatcher · bulk all-tools sequencing · CPU/RAM-aware adaptive parallelism
+Frontend : HTML/CSS/JavaScript (vanilla) · admin controls · bulk CSV/TXT import
+Reports  : Executive · Technical · Combined · Compliance Summary (ISO 27001 · SOC 2 · NIST · OWASP · CIS · UAE IAS)
+Security : Role-based auth · step-up protection for sensitive actions · audit report export
+Reliab.  : Restart-safe scan reconciliation · Nikto SIGPIPE mitigation · partial-timeout result preservation
+Hardware : NVIDIA Jetson Orin Nano 8GB target deployment · local/offline capable
 ---------------------------------------------------------------------------
-ROI      : $200K+ saved annually · $0/month cloud cost · 40% less false positives
+Impact   : $200K+/yr service replacement potential · persistent server-side bulk queue · governance-ready reporting
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-Local%20LLM-111111?style=flat-square)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-VAPT-0E83CD?style=flat-square)
 
 ---
 
