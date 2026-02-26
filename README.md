@@ -18,21 +18,23 @@
 
 ---
 
-## About Me
+## About
+
+Cybersecurity professional focused on **AI security engineering, cloud security architecture, and security operations automation**. I build **local-first, privacy-preserving AI platforms** for real-world enterprise use cases, with a strong emphasis on measurable operational outcomes, governance, and executive reporting.
 
 | | |
 |:---|:---|
-| **Name** | Imran Batcha |
-| **Current Role** | Cyber Security Analyst — Enterprise Security Operations |
+| **Profile** | CISM-certified AI Security Engineer / Cloud Security Architect with 7+ years in cybersecurity, cloud, and enterprise security operations |
+| **Core Strengths** | XDR optimization, cloud security, vulnerability management, attack surface visibility, NAC / segmentation, IAM / Zero Trust, AI-assisted security workflows |
+| **What I Build** | Production-ready AI security platforms (local LLM), security automation workflows, executive intelligence dashboards, and governance-ready reporting systems |
+| **Flagship Focus Areas** | AI-Assisted Cybersecurity Intelligence Dashboard · AI Autonomous Pentest Platform · Zero Trust architecture and identity hardening |
+| **Value Delivered** | Cost optimization through local AI, faster detection/response workflows, stronger visibility, and operationally usable security automation |
 | **Certifications** | CISM (2026) · OCI Multicloud Architect · OCI Gen AI Pro · AZ-900 · CWHH · CCNA |
-| **Experience** | 7+ years in Cybersecurity, AI Development & Cloud Security |
 | **Education** | M.Sc. Cyber Forensics & Information Security |
-| **Superpower** | Building **$0-cost AI security platforms** that outperform **$200K/year** solutions |
-| **Currently Building** | AI Autonomous Pentest Platform · Cyber Intelligence Dashboard · Zero Trust Architecture |
+| **Location** | Abu Dhabi, UAE |
 | **Contact** | [LinkedIn](https://linkedin.com/in/imranbatcha) |
 
 ---
-
 ## Impact & Key Achievements
 
 | Achievement | Result |
