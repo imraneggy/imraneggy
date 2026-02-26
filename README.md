@@ -81,23 +81,28 @@ Impact   : $200K+/yr service replacement potential · persistent server-side bul
 ---
 
 ### AI-Assisted Cybersecurity Intelligence Dashboard
-> Production Enterprise · C-Suite Executive Reporting
+> Production Enterprise | C-Suite / CISO Executive Reporting | Local-LLM Grounded Workflow
 
 ```
-Mission  : Zero-cost AI cyber intelligence replacing $500–$2K/month cloud APIs
+Mission  : Local-first AI cybersecurity intelligence platform for executive reporting and security operations
 ---------------------------------------------------------------------------
-AI Core  : Ollama + Mistral 7B + Llama 3 (100% local · zero cloud spend)
-Frontend : React 18 · Chart.js · Executive KPI dashboards
-Backend  : Python Flask · SQLAlchemy · PostgreSQL
-Workflow : n8n Automation · Security approval gates before publishing
-Sources  : CISA · Krebs on Security · SANS ISC · 10+ threat intel feeds
-Deploy   : Docker Compose · Nginx reverse proxy · 100% uptime SLA
+AI Core  : Ollama local LLM (llama3.2:1b) + grounded prompt pipeline + timeout/historical fallback
+Agents   : Hybrid agent/subagent orchestration (context/draft/finalize/policy/verification) with optional LangChain composition
+Frontend : React 18 + GeoPulse Atlas (Leaflet) + KPI snapshots (table/image) + 30-day AI intel chat + Spline splash UX
+Backend  : Python Flask + SQLAlchemy + PostgreSQL + Redis + proxy-aware rate limiting + admin session auth
+Workflow : Admin curation queue + AI draft/finalize + Telegram edit assist + publish approvals + 30-day retention + daily HTML reports
+Sources  : Multi-source cyber news ingestion with EV/automotive-first prioritization plus broader cyber threats
+Integr.  : MCP fetch proxy + n8n (optional) + Telegram bot + Docker Compose + Nginx reverse proxy
 ---------------------------------------------------------------------------
-FinOps   : $0 recurring cost · Daily C-suite briefings · 100% data privacy
+Outcome  : $0 cloud LLM/API cost + privacy-preserving local processing + recruiter-grade full-stack security product engineering
 ```
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-111111?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
