@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2342,50:1a5276,100:2e86c1&height=230&section=header&text=Imran%20Batcha&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Security%20Engineer%20%E2%94%82%20Cloud%20Security%20Architect%20%E2%94%82%20CISM&descAlignY=55&descSize=17&descColor=aed6f1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:060d1f,50:0d2240,80:14375e,100:1a73e8&height=260&section=header&text=Imran%20Batcha&fontSize=66&fontColor=ffffff&animation=twinkling&fontAlignY=33&stroke=4fc3f7&strokeWidth=1&desc=AI%20Security%20Engineer%20%E2%94%82%20Cloud%20Security%20Architect%20%E2%94%82%20CISM&descAlignY=54&descSize=17&descColor=90caf9" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+7%2B+Years+Enterprise+Security;%24200K%2B+Saved+via+Zero-Cost+AI+Security+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+Specialist;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;4+Production+AI+Platforms+%E2%80%94+%240+Cloud+Cost" alt="Typing SVG"/>
 
