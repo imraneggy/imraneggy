@@ -24,7 +24,7 @@
 
 **AI Security Engineer** who builds production security platforms that eliminate six-figure vendor dependencies.
 
-Currently at **Ali & Sons Holdings LLC** (Abu Dhabi) — architecting XDR, Zero Trust, and SOAR across enterprise infrastructure. Previously **Cyber Security Manager** at **Cholamandalam Investment and Finance Company** — leading ISO 27001 certification, CNAPP deployment, and PAM governance for 3,000+ privileged accounts in regulated financial services.
+Currently serving as **Cyber Security Analyst** at a **leading diversified conglomerate** (Abu Dhabi) — architecting XDR, Zero Trust, and SOAR across enterprise infrastructure. Previously **Cyber Security Manager** at a **major financial services corporation** — leading ISO 27001 certification, CNAPP deployment, and PAM governance for 3,000+ privileged accounts in regulated financial services.
 
 I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Four production platforms. Zero vendor lock-in. $200K+ in measurable annual savings.
 
@@ -281,7 +281,7 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 
 ## 💼 Professional Experience
 
-### Cyber Security Analyst — Ali & Sons Holdings LLC
+### Cyber Security Analyst — Leading Diversified Conglomerate
 *Abu Dhabi, UAE · September 2025 – Present*
 
 - Architected **Trend Micro Vision One XDR** deployment unifying endpoint, network, email, and cloud telemetry — **45% MTTD reduction**, 50% analyst triage improvement
@@ -293,8 +293,8 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 - Delivered **AI Cybersecurity Intelligence Dashboard** at $0 cloud cost — daily C-suite briefings
 - Maintained compliance with **UAE-IA, NESA, SIA, DESC ISR, and ADHICS** frameworks
 
-### Cyber Security Manager — Cholamandalam Investment and Finance Company
-*Chennai, India · June 2021 – September 2025*
+### Cyber Security Manager — Major Financial Services Corporation
+*India · June 2021 – September 2025*
 
 - Spearheaded **Palo Alto Prisma Cloud CNAPP** deployment across AWS, OCI, Kubernetes — **30% reduction** in critical CVEs
 - Improved multi-stage attack detection by **300%** via XDR and SIEM cross-layer correlation
