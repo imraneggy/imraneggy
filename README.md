@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Imran%20Batcha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI-Powered%20Security%20Platforms&descAlignY=58&descSize=15&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Imran%20Batcha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20Engineer%20%C2%B7%20Cloud%20Security%20Architect%20%C2%B7%20CISM&descAlignY=58&descSize=15&descColor=94a3b8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+Security+Platform+Builder;Zero-Cost+AI+Security+Platforms+%E2%80%94+Local+LLMs;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;4+Production+AI+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+7%2B+Years+Enterprise+Security;AI+Security+Engineer+%E2%80%94+Building+Zero-Cost+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+%7C+DevSecOps;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;4+Production+AI+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=imraneggy&label=Profile+Views&color=1a5276&style=for-the-badge)](https://github.com/imraneggy)
 &nbsp;
 ![CISM](https://img.shields.io/badge/CISM-ISACA_2026-FFD700?style=for-the-badge&labelColor=0a2342)
+&nbsp;
+![Experience](https://img.shields.io/badge/7%2B_Years-Enterprise_Security-2e86c1?style=for-the-badge&labelColor=0a2342)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open_to-Opportunities-00a86b?style=for-the-badge&labelColor=0a2342)](https://github.com/imraneggy)
 
 </div>
 
@@ -16,14 +20,36 @@
 
 ## About Me
 
-I build production AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Four production platforms. Zero vendor lock-in.
+**AI Security Engineer** and **Cloud Security Architect** with **7+ years** in enterprise cybersecurity — spanning XDR deployment, Zero Trust architecture, CNAPP governance, and AI platform engineering.
+
+I design and build production AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Four production platforms shipped. Zero vendor lock-in.
 
 | | |
 |:---|:---|
+| **Role** | AI Security Engineer · Cloud Security Architect |
 | **Certifications** | CISM · OCI Multicloud Architect · OCI Gen AI Professional · AZ-900 · CWHH · CCNA |
 | **Education** | M.Sc. Cyber Forensics & Information Security |
 | **Specialisation** | XDR · CNAPP · Zero Trust · CTEM · AI Red Teaming · DevSecOps · GRC Automation |
-| **Frameworks** | NIST CSF 2.0 · ISO 27001:2022 · MITRE ATT&CK · CIS v8 · OWASP · UAE NESA · GDPR · NIS2 · DORA |
+| **Frameworks** | NIST CSF 2.0 · ISO 27001:2022 · MITRE ATT&CK · CIS v8 · OWASP · NESA · GDPR · NIS2 · DORA |
+
+---
+
+## Key Achievements
+
+<div align="center">
+
+| Capability | Impact | Details |
+|:-----------|:------:|:--------|
+| **AI Security Platforms** | **$200K+/yr saved** | Built autonomous pentest platform replacing commercial VAPT — Dockerized, hardened, governance-ready |
+| **XDR Deployment** | **45% faster MTTD** | Unified endpoint, network, email, and cloud telemetry with automated correlation |
+| **SOAR Automation** | **50% less triage** | Playbook-driven response with MITRE ATT&CK mapping |
+| **Cloud Security (CNAPP)** | **30% fewer CVEs** | Multi-cloud posture management with custom compliance queries mapped to CIS v8 |
+| **Zero Trust Architecture** | **50% fewer breaches** | Conditional Access + PAM + ZTNA across hybrid infrastructure |
+| **DevSecOps** | **70% less drift** | Shift-Left security embedded in CI/CD pipelines |
+| **Attack Surface Management** | **60% more visibility** | Discovered 320+ shadow IT assets across enterprise environments |
+| **ISO 27001 Certification** | **Zero non-conformities** | Led full certification cycle — policy authoring through external audit |
+
+</div>
 
 ---
 
