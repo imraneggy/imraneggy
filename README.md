@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Imran%20Batcha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20Engineer%20%C2%B7%20Cloud%20Security%20Architect%20%C2%B7%20CISM&descAlignY=58&descSize=15&descColor=94a3b8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+7%2B+Years+Enterprise+Security;%24200K%2B+Saved+via+Zero-Cost+AI+Security+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+Specialist;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;4+Production+AI+Platforms+%E2%80%94+%240+Cloud+Cost" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+7%2B+Years+Enterprise+Security;%24200K%2B+Saved+via+Zero-Cost+AI+Security+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+Specialist;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;4+Production+AI+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
 
 <br/>
 
@@ -61,7 +61,7 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 ## 🚀 Flagship AI Security Projects
 
 ### 1. Autonomous Penetration Testing Platform
-> **Edge-deployed AI pentest platform replacing $200K/year commercial VAPT services**
+> **Edge-deployed AI pentest platform replacing $200K/year commercial VAPT services — now with production Docker deployment**
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -69,12 +69,16 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 ├──────────────────────────────────────────────────────────────────────────┤
 │  AI Core   Local llama.cpp (Qwen2.5-3B GGUF) + OpenAI analysis        │
 │  Hardware  NVIDIA Jetson Orin Nano 8GB — fully air-gapped, edge-native │
+│  Deploy    Docker Compose — non-root container, hardened, single cmd   │
 │  Tools     Katana · Nikto · Nuclei · SQLMap · Nmap — AI-orchestrated   │
 │  Backend   Python FastAPI · Uvicorn · SQLite · CPU/RAM-aware dispatch  │
 │  Frontend  Vanilla HTML/CSS/JS · admin controls · bulk CSV/TXT import  │
 │  Reports   Executive · Technical · Compliance (ISO 27001 · SOC 2 ·     │
 │            NIST CSF · OWASP · CIS · UAE-IA · NESA)                     │
-│  Security  Role-based auth · step-up MFA · full audit trail export     │
+│  Security  Login rate limiting · nmap script whitelist · XSS hardened  │
+│            Step-up auth (all users) · CSP · CORS · audit trail export  │
+│            Non-root container · cap_drop ALL · read-only filesystem    │
+│            Auto-generated admin password · no hardcoded credentials    │
 ├──────────────────────────────────────────────────────────────────────────┤
 │  IMPACT    $200K+/yr savings · 100% offline-capable · governance-ready │
 └──────────────────────────────────────────────────────────────────────────┘
@@ -82,6 +86,7 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-Local_LLM-111111?style=flat-square)
@@ -289,7 +294,7 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 - Engineered **Zero Trust Network Access** with Azure AD Conditional Access + Arcon PAM — **50% fewer** unauthorised access attempts
 - Hardened **500+ servers and endpoints**; tuned detection rules reducing false positives by **35%**
 - Managed **FortiNAC** network access control across **2,500+ devices** with micro-segmentation
-- Built **AI Autonomous Pentest Platform** on NVIDIA Jetson Orin Nano — **$200K+ annual cost avoidance**
+- Built **AI Autonomous Pentest Platform** on NVIDIA Jetson Orin Nano — **$200K+ annual cost avoidance** — containerized with Docker, production-hardened (rate limiting, non-root, input validation, XSS protection)
 - Delivered **AI Cybersecurity Intelligence Dashboard** at $0 cloud cost — daily C-suite briefings
 - Maintained compliance with **UAE-IA, NESA, SIA, DESC ISR, and ADHICS** frameworks
 
