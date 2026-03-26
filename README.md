@@ -1,32 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Imran%20Batcha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20Engineer%20%C2%B7%20Cloud%20Security%20Architect%20%C2%B7%20CISM&descAlignY=58&descSize=15&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Imran%20Batcha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI-Powered%20Security%20Platforms&descAlignY=58&descSize=15&descColor=94a3b8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+7%2B+Years+Enterprise+Security;%24200K%2B+Saved+via+Zero-Cost+AI+Security+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+Specialist;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;4+Production+AI+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+Security+Platform+Builder;Zero-Cost+AI+Security+Platforms+%E2%80%94+Local+LLMs;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;4+Production+AI+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=imraneggy&label=Profile+Views&color=1a5276&style=for-the-badge)](https://github.com/imraneggy)
 &nbsp;
 ![CISM](https://img.shields.io/badge/CISM-ISACA_2026-FFD700?style=for-the-badge&labelColor=0a2342)
-&nbsp;
-![Experience](https://img.shields.io/badge/7%2B_Years-Enterprise_Security-2e86c1?style=for-the-badge&labelColor=0a2342)
-&nbsp;
-![Location](https://img.shields.io/badge/Abu_Dhabi-UAE_🇦🇪-1a5276?style=for-the-badge&labelColor=0a2342)
-&nbsp;
-[![Open to Work](https://img.shields.io/badge/🌍_Open_to-International_Opportunities-00a86b?style=for-the-badge&labelColor=0a2342)](https://linkedin.com/in/imranbatcha)
 
 </div>
 
 ---
 
-## 🔐 About Me
+## About Me
 
-**AI Security Engineer** who builds production security platforms that eliminate six-figure vendor dependencies.
-
-Currently serving as **Cyber Security Analyst** at a **leading diversified conglomerate** (Abu Dhabi) — architecting XDR, Zero Trust, and SOAR across enterprise infrastructure. Previously **Cyber Security Manager** at a **major financial services corporation** — leading ISO 27001 certification, CNAPP deployment, and PAM governance for 3,000+ privileged accounts in regulated financial services.
-
-I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Four production platforms. Zero vendor lock-in. $200K+ in measurable annual savings.
+I build production AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Four production platforms. Zero vendor lock-in.
 
 | | |
 |:---|:---|
@@ -37,31 +27,10 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 
 ---
 
-## 📊 Impact — Measurable Outcomes
-
-<div align="center">
-
-| Metric | Result | How |
-|:-------|:------:|:----|
-| **Cost Elimination** | **$200K+/yr** | Local LLM pentest platform replacing commercial VAPT services |
-| **Threat Detection** | **45% faster MTTD** | Trend Micro Vision One XDR — unified endpoint/network/email/cloud telemetry |
-| **Analyst Efficiency** | **50% less triage** | SOAR playbooks + MITRE ATT&CK correlation automation |
-| **Cloud Security** | **30% fewer CVEs** | Palo Alto Prisma Cloud CNAPP — 50+ RQL queries mapped to CIS v8 |
-| **Zero Trust** | **50% fewer breaches** | Azure AD / Entra ID Conditional Access + Arcon PAM + ZTNA |
-| **Configuration Drift** | **70% reduction** | DevSecOps Shift-Left Security embedded in CI/CD pipelines |
-| **Attack Surface** | **320+ shadow IT assets** | Attack Surface Management — 60% visibility increase |
-| **Endpoint Hardening** | **500+ endpoints** | Vision One XDR + 35% false positive reduction |
-| **Network Control** | **2,500+ devices** | FortiNAC micro-segmentation across enterprise |
-| **Recognition** | **Best Performer** | FY 2022–2023 — Cybersecurity & Innovation |
-
-</div>
-
----
-
-## 🚀 Flagship AI Security Projects
+## Flagship AI Security Projects
 
 ### 1. Autonomous Penetration Testing Platform
-> **Edge-deployed AI pentest platform replacing $200K/year commercial VAPT services — now with production Docker deployment**
+> **Edge-deployed AI pentest platform — production Docker deployment with full security hardening**
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -80,7 +49,7 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 │            Non-root container · cap_drop ALL · read-only filesystem    │
 │            Auto-generated admin password · no hardcoded credentials    │
 ├──────────────────────────────────────────────────────────────────────────┤
-│  IMPACT    $200K+/yr savings · 100% offline-capable · governance-ready │
+│  IMPACT    100% offline-capable · governance-ready · zero vendor cost  │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -174,7 +143,7 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details>
 <summary><b>Cybersecurity Platforms</b></summary>
@@ -253,7 +222,7 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 | | Certification | Issuer | Year |
 |:--|:-------------|:-------|:-----|
@@ -270,7 +239,7 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -284,53 +253,7 @@ I engineer AI-powered cybersecurity platforms at **$0 cloud cost** using local L
 
 ---
 
-## 💼 Professional Experience
-
-### Cyber Security Analyst — Leading Diversified Conglomerate
-*Abu Dhabi, UAE · September 2025 – Present*
-
-- Architected **Trend Micro Vision One XDR** deployment unifying endpoint, network, email, and cloud telemetry — **45% MTTD reduction**, 50% analyst triage improvement
-- Discovered **320+ shadow IT assets** via Attack Surface Management — visibility increased by **60%**
-- Engineered **Zero Trust Network Access** with Azure AD Conditional Access + Arcon PAM — **50% fewer** unauthorised access attempts
-- Hardened **500+ servers and endpoints**; tuned detection rules reducing false positives by **35%**
-- Managed **FortiNAC** network access control across **2,500+ devices** with micro-segmentation
-- Built **AI Autonomous Pentest Platform** on NVIDIA Jetson Orin Nano — **$200K+ annual cost avoidance** — containerized with Docker, production-hardened (rate limiting, non-root, input validation, XSS protection)
-- Delivered **AI Cybersecurity Intelligence Dashboard** at $0 cloud cost — daily C-suite briefings
-- Maintained compliance with **UAE-IA, NESA, SIA, DESC ISR, and ADHICS** frameworks
-
-### Cyber Security Manager — Major Financial Services Corporation
-*India · June 2021 – September 2025*
-
-- Spearheaded **Palo Alto Prisma Cloud CNAPP** deployment across AWS, OCI, Kubernetes — **30% reduction** in critical CVEs
-- Improved multi-stage attack detection by **300%** via XDR and SIEM cross-layer correlation
-- Authored **50+ RQL custom queries** for ISO 27001 and CIS Benchmark automated compliance
-- Managed **Arcon PAM** for **3,000+ privileged accounts** across hybrid cloud under Zero Trust
-- Led **ISO 27001:2022 certification** — passed external audits with zero non-conformities
-- Embedded **DevSecOps Shift-Left Security** into CI/CD pipelines — **70% configuration drift reduction**
-- Achieved **20% attack surface reduction** via quarterly VAPT (Burp Suite, Nmap, Nuclei)
-- Reduced phishing click-through rates by **25%** via simulated phishing campaigns
-- **Best Performer Award FY 2022–2023** — recognised for cybersecurity innovation
-
----
-
-## 🌍 Actively Seeking International Opportunities
-
-I am open to senior cybersecurity roles across these regions:
-
-| Region | Target Locations | Regulatory Alignment |
-|:-------|:-----------------|:---------------------|
-| 🇺🇸 **USA** | New York · SF · DC · Austin · Seattle · Boston | NIST 800-53 · CMMC 2.0 · FedRAMP · SOC 2 · CISA KEV |
-| 🇦🇺 **Australia** | Sydney · Melbourne · Canberra · Perth | ASD Essential Eight · APRA CPS 234 · ACSC ISM |
-| 🇨🇦 **Canada** | Toronto · Vancouver · Ottawa · Calgary | OSFI B-13 · PIPEDA · Bill C-26 · CCCS |
-| 🇸🇬 **Singapore** | Singapore | MAS TRM 2021 · PDPA · CSA Cyber Trust Mark |
-| 🇦🇪 **GCC** | UAE · Saudi Arabia · Qatar · Kuwait | UAE NESA · NCA ECC · DESC ISR · ADHICS |
-| 🇪🇺 **Europe** | Netherlands · Germany · Ireland · UK · Denmark | GDPR · NIS2 · DORA · EU AI Act |
-
-**Available for:** On-site · Hybrid · Relocation · Contract · Permanent
-
----
-
-## 💡 Philosophy
+## Philosophy
 
 > *"The best security system is one that is invisible, intelligent, and costs nothing to run.*
 > *AI is the key that makes all three possible — simultaneously."*
@@ -341,15 +264,11 @@ I am open to senior cybersecurity roles across these regions:
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-imranbatcha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imranbatcha)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-imraneggy-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imraneggy)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-imranbatchait@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranbatchait@gmail.com)
 
 <br/>
 
-**CISM** · **M.Sc. Cyber Forensics & Information Security** · **Abu Dhabi, UAE**
+**CISM** · **M.Sc. Cyber Forensics & Information Security**
 
 <br/>
 
