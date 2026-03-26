@@ -53,6 +53,41 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ---
 
+## Core Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Security Operations & Architecture
+- **XDR/EDR** — Unified telemetry across endpoint, network, email, cloud (Trend Micro Vision One)
+- **CNAPP** — Cloud-native posture management with custom compliance policies (Palo Alto Prisma Cloud)
+- **Zero Trust** — Conditional Access, PAM governance, ZTNA, micro-segmentation
+- **SOAR** — Automated playbooks with MITRE ATT&CK correlation
+- **SIEM** — Cross-layer detection engineering, alert tuning, false positive reduction
+- **NAC** — Network access control and micro-segmentation at enterprise scale (FortiNAC)
+- **ASM** — Attack surface discovery, shadow IT identification, exposure management
+- **VAPT** — Vulnerability assessment and penetration testing (Burp Suite, Nmap, Nuclei, SQLMap)
+
+</td>
+<td width="50%" valign="top">
+
+### AI Engineering & Platform Development
+- **Local LLMs** — llama.cpp, Ollama, GGUF model deployment on edge hardware
+- **Agentic AI** — Multi-agent orchestration with LangChain, LangGraph, ReAct patterns
+- **RAG Pipelines** — ChromaDB vector search for policy/compliance knowledge retrieval
+- **Edge AI** — NVIDIA Jetson deployment for air-gapped, offline-capable inference
+- **Full-Stack** — Python (FastAPI, Flask), React 18, PostgreSQL, Redis, SQLite
+- **Docker & DevSecOps** — Container hardening, CI/CD security, Shift-Left practices
+- **Multi-Cloud** — AWS, Azure, OCI, GCP — architecture, security, and governance
+- **GRC Automation** — ISO 27001, NIST CSF, CIS v8, OWASP, NESA, GDPR, NIS2, DORA
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Flagship AI Security Projects
 
 ### 1. Autonomous Penetration Testing Platform
