@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Imran%20Batcha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20Engineer%20%C2%B7%20Cloud%20Security%20Architect%20%C2%B7%20CISM&descAlignY=58&descSize=15&descColor=94a3b8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+7%2B+Years+Enterprise+Security;AI+Security+Engineer+%E2%80%94+Building+Zero-Cost+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+%7C+DevSecOps;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;4+Production+AI+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+7%2B+Years+Enterprise+Security;AI+Security+Engineer+%E2%80%94+Building+Zero-Cost+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+%7C+DevSecOps;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;5+Production+AI+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
 
 <br/>
 
@@ -22,12 +22,12 @@
 
 **AI Security Engineer** and **Cloud Security Architect** with **7+ years** in enterprise cybersecurity — spanning XDR deployment, Zero Trust architecture, CNAPP governance, and AI platform engineering.
 
-I design and build production AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Four production platforms shipped. Zero vendor lock-in.
+I design and build production AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Five production platforms shipped. Zero vendor lock-in.
 
 | | |
 |:---|:---|
 | **Role** | AI Security Engineer · Cloud Security Architect |
-| **Certifications** | CISM · OCI Multicloud Architect · OCI Gen AI Professional · AZ-900 · CWHH · CCNA |
+| **Certifications** | CISM · OCI Multicloud Architect · OCI Gen AI Professional · OCI AI Foundations · AZ-900 · Cisco Ethical Hacker · Cisco Cybersecurity Analyst · Cisco Network Defense · Cisco Endpoint Security · CWHH · C-WAST |
 | **Education** | M.Sc. Cyber Forensics & Information Security |
 | **Specialisation** | XDR · CNAPP · Zero Trust · CTEM · AI Red Teaming · DevSecOps · GRC Automation |
 | **Frameworks** | NIST CSF 2.0 · ISO 27001:2022 · MITRE ATT&CK · CIS v8 · OWASP · NESA · GDPR · NIS2 · DORA |
@@ -48,6 +48,10 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 | **DevSecOps** | **70% less drift** | Shift-Left security embedded in CI/CD pipelines |
 | **Attack Surface Management** | **60% more visibility** | Discovered 320+ shadow IT assets across enterprise environments |
 | **ISO 27001 Certification** | **Zero non-conformities** | Led full certification cycle — policy authoring through external audit |
+| **Best Performer** | **FY 2022-2023** | Recognised for exceptional contributions to cybersecurity excellence and innovation |
+| **Phishing Response** | **40% faster SLA** | AI-powered email security analytics and automated SOAR incident response |
+| **Alert Noise Reduction** | **35% less noise** | Intelligent XDR detection rule tuning improving SOC analyst productivity |
+| **Attack Surface Reduction** | **20% reduced** | Comprehensive VAPT identifying and remediating OWASP Top 10 vulnerabilities |
 
 </div>
 
@@ -81,6 +85,8 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 - **Docker & DevSecOps** — Container hardening, CI/CD security, Shift-Left practices
 - **Multi-Cloud** — AWS, Azure, OCI, GCP — architecture, security, and governance
 - **GRC Automation** — ISO 27001, NIST CSF, CIS v8, OWASP, NESA, GDPR, NIS2, DORA
+- **AI-Assisted Dev** — Claude Code, OpenAI Codex, Google AI Studio, NotebookLM
+- **Testing & Automation** — Playwright E2E, Selenium CDP, pytest, CI/CD pipelines
 
 </td>
 </tr>
@@ -183,26 +189,46 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ---
 
-### 4. AI Job Application Bot
-> **Autonomous job application agent — NLP-driven resume matching**
+### 5. AI Job Application Bot
+> **Autonomous multi-platform job application system — 14 platforms, 10 auto-apply plugins, dual browser engines**
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  MISSION   Autonomous job search, matching, and application pipeline   │
-├──────────────────────────────────────────────────────────────────────────┤
-│  AI Core   spaCy NLP + ReAct agent pipeline + LLM-assisted matching    │
-│  Automation Playwright browser automation — end-to-end job workflow    │
-│  Pipeline  Job discovery → NLP parsing → skill matching → application  │
-├──────────────────────────────────────────────────────────────────────────┤
-│  IMPACT    Automated high-volume job applications with AI precision    │
-└──────────────────────────────────────────────────────────────────────────┘
++--------------------------------------------------------------------------+
+|  MISSION   Autonomous job discovery, AI matching, and application        |
++--------------------------------------------------------------------------+
+|  AI Core   Ollama (primary) + Anthropic Claude (fallback) + spaCy NLP   |
+|  Matching  spaCy NLP + scikit-learn skill matching (0-100 scoring)      |
+|  Q and A   3-tier: Deterministic then Template then LLM                 |
+|  Scrapers  14 platforms: LinkedIn, SEEK, JobsDB, Indeed, Bayt,          |
+|            NaukriGulf, Glassdoor, Greenhouse, Lever, Dice,               |
+|            Monster, Google Jobs, JapanDev                                |
+|  Apply     10 auto-apply plugins with Playwright + Selenium CDP         |
+|  Stealth   Anti-detection: fingerprint rotation, human simulation,      |
+|            80-250ms typing, 8-25 min random delays between applies      |
+|  Frontend  React 18 + Vite + TypeScript + Tailwind dashboard            |
+|  Backend   FastAPI + SQLAlchemy + APScheduler + Streamlit monitoring    |
+|  Control   Telegram bot: /status /applied /pause /resume /help          |
+|  Security  AES-256 encrypted credentials, per-platform session mgmt    |
+|  Testing   8 pytest suites: DB, matcher, Q and A, cover letter, e2e    |
+|  Regions   6: Australia, Singapore, Canada, GCC, US, Japan              |
++--------------------------------------------------------------------------+
+|  IMPACT    42K LOC, zero cloud cost, regional cover letter generation   |
++--------------------------------------------------------------------------+
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-111111?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat-square)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
 ---
+
 
 ## Tech Stack
 
@@ -233,6 +259,8 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-RAG-FF6F00?style=for-the-badge&labelColor=0a2342)
 ![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=for-the-badge&labelColor=0a2342)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-Edge_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0a2342)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&labelColor=0a2342)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0a2342)
 
 </details>
 
@@ -262,6 +290,10 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </details>
 
