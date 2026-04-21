@@ -97,7 +97,7 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 ## Flagship AI Security Projects
 
 ### 1. Autonomous Penetration Testing Platform
-> **Edge-deployed AI pentest platform — production Docker deployment with full security hardening**
+> **Edge-deployed AI pentest platform — network + mobile APK security, production Docker deployment with full security hardening**
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -106,17 +106,22 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │  AI Core   Local llama.cpp (Qwen2.5-3B GGUF) + OpenAI analysis        │
 │  Hardware  NVIDIA Jetson Orin Nano 8GB — fully air-gapped, edge-native │
 │  Deploy    Docker Compose — non-root container, hardened, single cmd   │
-│  Tools     Katana · Nikto · Nuclei · SQLMap · Nmap — AI-orchestrated   │
+│  Network   Katana · Nikto · Nuclei · SQLMap · Nmap — AI-orchestrated   │
+│  Mobile    androguard · apktool · APKLeaks · JADX — APK static analysis│
 │  Backend   Python FastAPI · Uvicorn · SQLite · CPU/RAM-aware dispatch  │
 │  Frontend  Vanilla HTML/CSS/JS · admin controls · bulk CSV/TXT import  │
-│  Reports   Executive · Technical · Compliance (ISO 27001 · SOC 2 ·     │
-│            NIST CSF · OWASP · CIS · UAE-IA · NESA)                     │
+│  Reports   Executive · Technical · Compliance · Mobile Assessment      │
+│            ISO 27001 · SOC 2 · NIST CSF · OWASP · CIS · UAE-IAS/NESA  │
+│  Mobile    OWASP MASVS L1 compliance · Mobile Top 10 (2024) mapping    │
+│  Report    UAE IAS · ADDA · PDPL · ISO 27001 framework cross-reference │
+│            Severity-coded finding cards · remediation roadmap · PDF     │
 │  Security  Login rate limiting · nmap script whitelist · XSS hardened  │
 │            Step-up auth (all users) · CSP · CORS · audit trail export  │
 │            Non-root container · cap_drop ALL · read-only filesystem    │
 │            Auto-generated admin password · no hardcoded credentials    │
 ├──────────────────────────────────────────────────────────────────────────┤
 │  IMPACT    100% offline-capable · governance-ready · zero vendor cost  │
+│            9 network tools + 4 mobile tools · 25-page A4 PDF reports   │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -127,6 +132,8 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-Local_LLM-111111?style=flat-square)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-PDF-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_MASVS-000000?style=flat-square&logo=owasp&logoColor=white)
 
 ---
 
