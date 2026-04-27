@@ -30,7 +30,7 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 | **Certifications** | CISM · OCI Multicloud Architect · OCI Gen AI Professional · OCI AI Foundations · AZ-900 · Cisco Ethical Hacker · Cisco Cybersecurity Analyst · Cisco Network Defense · Cisco Endpoint Security · CWHH · C-WAST |
 | **Education** | M.Sc. Cyber Forensics & Information Security |
 | **Specialisation** | XDR · CNAPP · Zero Trust · CTEM · AI Red Teaming · DevSecOps · GRC Automation |
-| **Frameworks** | NIST CSF 2.0 · ISO 27001:2022 · MITRE ATT&CK · CIS v8 · OWASP · NESA · GDPR · NIS2 · DORA |
+| **Frameworks** | NIST CSF 2.0 · ISO 27001:2022 · MITRE ATT&CK · CIS v8 · OWASP · GDPR · NIS2 · DORA · SAMA |
 
 ---
 
@@ -84,7 +84,7 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 - **Full-Stack** — Python (FastAPI, Flask), React 18, PostgreSQL, Redis, SQLite
 - **Docker & DevSecOps** — Container hardening, CI/CD security, Shift-Left practices
 - **Multi-Cloud** — AWS, Azure, OCI, GCP — architecture, security, and governance
-- **GRC Automation** — ISO 27001, NIST CSF, CIS v8, OWASP, NESA, GDPR, NIS2, DORA
+- **GRC Automation** — ISO 27001, NIST CSF, CIS v8, OWASP, GDPR, NIS2, DORA, SAMA
 - **AI-Assisted Dev** — Claude Code, OpenAI Codex, Google AI Studio, NotebookLM
 - **Testing & Automation** — Playwright E2E, Selenium CDP, pytest, CI/CD pipelines
 
@@ -96,7 +96,58 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ## Flagship AI Security Projects
 
-### 1. Autonomous Penetration Testing Platform
+### 1. SOC-PC1 — Production On-Prem AI Security Platform
+> **Single-host enterprise SOC platform — 4-VM micro-isolated, AI-orchestrated, $0 cloud cost**
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  MISSION   On-prem SOC operations + autonomous pentest at enterprise    │
+│            scale, fully air-gapped scan plane, zero vendor licensing     │
+├──────────────────────────────────────────────────────────────────────────┤
+│  Hardware  HP DL380p Gen8 — 48 vCPU / 251 GB RAM / single-host KVM      │
+│  Topology  4 VMs on libvirt mgmt-net + dedicated air-gap subnet         │
+│            vm-pentest · vm-ops · vm-edge · vm-cyberdash                  │
+│  Edge      Caddy reverse proxy → 5 vhosts · Authelia 2FA TOTP +          │
+│            group-based ACL · WireGuard remote access                     │
+│  Compute   30+ Docker containers, healthchecks, restart policies         │
+│  AI Stack  LangGraph multi-agent observability with T0–T3 policy gates  │
+│            qwen2.5:3b triage + qwen3-30b-a3b reason · age-encrypted env │
+│  Pentest   Nmap · Nikto · Nuclei · Sqlmap · Katana + MobSF · APKiD ·    │
+│            JADX · APKLeaks · trufflehog · lief — orchestrated dispatch  │
+│  Data      692 production scans · pentest.db (SQLite WAL) · 346K CVE    │
+│            records (NVD + CISA KEV + EPSS) · Qdrant RAG (OWASP corpus)  │
+│  Observ.   Prometheus · Alertmanager · Grafana · Loki · cAdvisor ·       │
+│            Telegram alerts · daily LLM-rendered digest                   │
+│  Reliable  10 systemd watchdog timers (5-min sweep, idempotent recovery)│
+│            cockpit auto-recover · libvirt snapshot before risky ops     │
+│  Security  15-min sliding session · MASVS rollup mobile compliance ·     │
+│            air-gapped scan-plane (iptables FORWARD/INPUT drops) ·       │
+│            role-based RBAC (admin / viewer / bot)                       │
+│  Backup    Tier-1 off-host backup → private GitHub (configs + DB dumps) │
+├──────────────────────────────────────────────────────────────────────────┤
+│  IMPACT    Replaces commercial VAPT + SIEM stack · $0 cloud cost ·       │
+│            33-component health-check green · documented runbook +        │
+│            as-built v1.3 · DR-restorable from off-host backup            │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+![Linux Mint](https://img.shields.io/badge/Linux_Mint_22-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM%2FQEMU-FF8C00?style=flat-square)
+![libvirt](https://img.shields.io/badge/libvirt-CC0000?style=flat-square)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Authelia](https://img.shields.io/badge/Authelia-2FA-1E40AF?style=flat-square)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-111111?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi_Agent-1C3C3C?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-RAG-DC382D?style=flat-square)
+![MobSF](https://img.shields.io/badge/MobSF-Mobile-000000?style=flat-square)
+
+---
+
+### 2. Autonomous Penetration Testing Platform
 > **Edge-deployed AI pentest platform — network + mobile APK security, production Docker deployment with full security hardening**
 
 ```
@@ -111,9 +162,9 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │  Backend   Python FastAPI · Uvicorn · SQLite · CPU/RAM-aware dispatch  │
 │  Frontend  Vanilla HTML/CSS/JS · admin controls · bulk CSV/TXT import  │
 │  Reports   Executive · Technical · Compliance · Mobile Assessment      │
-│            ISO 27001 · SOC 2 · NIST CSF · OWASP · CIS · UAE-IAS/NESA  │
+│            ISO 27001 · SOC 2 · NIST CSF · OWASP · CIS · regional cybersecurity standards  │
 │  Mobile    OWASP MASVS L1 compliance · Mobile Top 10 (2024) mapping    │
-│  Report    UAE IAS · ADDA · PDPL · ISO 27001 framework cross-reference │
+│  Report    Sectoral compliance · ISO 27001 framework cross-reference │
 │            Severity-coded finding cards · remediation roadmap · PDF     │
 │  Security  Login rate limiting · nmap script whitelist · XSS hardened  │
 │            Step-up auth (all users) · CSP · CORS · audit trail export  │
@@ -137,7 +188,7 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ---
 
-### 2. AI Cybersecurity Intelligence Dashboard
+### 3. AI Cybersecurity Intelligence Dashboard
 > **Local-first C-Suite intelligence platform — $0 cloud LLM cost**
 
 ```
@@ -167,7 +218,7 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ---
 
-### 3. ARIA — AI IT Policy Manager
+### 4. ARIA — AI IT Policy Manager
 > **Multi-agent GRC automation platform — RAG-powered compliance governance**
 
 ```
@@ -180,7 +231,7 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │            Compliance Auditor (LangChain multi-agent orchestration)     │
 │  Backend   Python FastAPI · Uvicorn · ChromaDB · LangChain             │
 │  Frontend  React 18 + real-time streaming chat + policy editor          │
-│  Coverage  UAE NESA · ISO 27001:2022 · UAE PDPL · NIST CSF 2.0 ·       │
+│  Coverage  ISO 27001:2022 · regional data-protection laws · NIST CSF 2.0 ·       │
 │            CIS v8 · GDPR · NIS2 · DORA · OWASP                        │
 │  Output    Policy drafts · compliance scorecards · gap analysis         │
 ├──────────────────────────────────────────────────────────────────────────┤
@@ -313,7 +364,7 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 ![MITRE](https://img.shields.io/badge/MITRE_ATT&CK-E20000?style=for-the-badge&labelColor=0a2342)
 ![CIS](https://img.shields.io/badge/CIS_Controls_v8-003366?style=for-the-badge&labelColor=0a2342)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![UAE NESA](https://img.shields.io/badge/UAE_NESA-00732F?style=for-the-badge&labelColor=0a2342)
+![Regional Compliance](https://img.shields.io/badge/Regional_Compliance-00732F?style=for-the-badge&labelColor=0a2342)
 ![GDPR](https://img.shields.io/badge/GDPR-003399?style=for-the-badge&labelColor=0a2342)
 ![NIS2](https://img.shields.io/badge/NIS2_Directive-003399?style=for-the-badge&labelColor=0a2342)
 ![DORA](https://img.shields.io/badge/DORA-003399?style=for-the-badge&labelColor=0a2342)
