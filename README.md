@@ -123,11 +123,11 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │  Security  15-min sliding session · MASVS rollup mobile compliance ·     │
 │            air-gapped scan-plane (iptables FORWARD/INPUT drops) ·       │
 │            role-based RBAC (admin / viewer / bot)                       │
-│  Backup    Tier-1 off-host backup → private GitHub (configs + DB dumps) │
+│  Backup    Off-host backup → private GitHub (configs + 7.5 MB DB.gz)    │
 ├──────────────────────────────────────────────────────────────────────────┤
 │  IMPACT    Replaces commercial VAPT + SIEM stack · $0 cloud cost ·       │
 │            33-component health-check green · documented runbook +        │
-│            as-built v1.3 · DR-restorable from off-host backup            │
+│            as-built v1.4 · DR-restorable from off-host backup (DB+cfg)  │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
