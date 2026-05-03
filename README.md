@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Imran%20Batcha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20Engineer%20%C2%B7%20Cloud%20Security%20Architect%20%C2%B7%20CISM&descAlignY=58&descSize=15&descColor=94a3b8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+8%2B+Years+Enterprise+Security;AI+Security+Engineer+%E2%80%94+Building+Zero-Cost+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+%7C+DevSecOps;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;6+Production+AI+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+8%2B+Years+Enterprise+Security;AI+Security+Engineer+%E2%80%94+Building+Zero-Cost+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+%7C+DevSecOps;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;4+Production+AI+Security+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 **AI Security Engineer** and **Cloud Security Architect** with **8+ years** in enterprise cybersecurity — spanning XDR deployment, Zero Trust architecture, CNAPP governance, and AI platform engineering.
 
-I design and build production AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Six production platforms shipped. Zero vendor lock-in.
+I design and build production AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Four production AI security platforms shipped, plus a public Android fintech project. Zero vendor lock-in.
 
 | | |
 |:---|:---|
@@ -96,9 +96,18 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ## Now
 
-- 🚀 **Building [Exchangia](https://github.com/imraneggy/transfer-rate)** — Android 14+ AED→INR rate aggregator, 11 verified sources, gold-rate module, $0 ops cost. [Latest release](https://github.com/imraneggy/transfer-rate/releases/latest) · [Technical report](https://imraneggy.github.io/transfer-rate/report.html)
-- 🛠 Maintaining 6 production AI security platforms in private repos (SOC-PC1 · AI-Pentest · ARIA · AI-Cyber-Dash · AI-Job-Bot) — code walkthroughs available on request
+- 🚀 **Shipping [Exchangia v0.13.6](https://github.com/imraneggy/transfer-rate)** — Android 14+ AED→INR aggregator · 11 verified sources · gold-rate module · self-hosted runner pipeline · $0 ops cost. [Releases](https://github.com/imraneggy/transfer-rate/releases) · [Technical report](https://imraneggy.github.io/transfer-rate/report.html)
+- 🛠 Maintaining 4 production AI security platforms in private repos (SOC-PC1 · AI-Pentest · ARIA · AI-Cyber-Dash) — code walkthroughs available on request
 - 🎯 **Open to:** AI Security Engineer / Cloud Security Architect roles in **UAE** (relocation considered for SG / AU / DE)
+
+---
+
+## Languages
+
+- **English** — Professional working proficiency
+- **Tamil** — Native
+- **Hindi** — Conversational
+- **Arabic** — Basic (UAE workplace)
 
 ---
 
@@ -117,7 +126,8 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │            vm-pentest · vm-ops · vm-edge · vm-cyberdash                  │
 │  Edge      Caddy reverse proxy → 5 vhosts · Authelia 2FA TOTP +          │
 │            group-based ACL · WireGuard remote access                     │
-│  Compute   30+ Docker containers, healthchecks, restart policies         │
+│  Compute   30+ services across 11 docker-compose stacks ·                │
+│            healthchecks · restart policies · 50 iptables FORWARD/INPUT  │
 │  AI Stack  LangGraph multi-agent observability with T0–T3 policy gates  │
 │            qwen2.5:3b triage + qwen3-30b-a3b reason · age-encrypted env │
 │  Pentest   Nmap · Nikto · Nuclei · Sqlmap · Katana + MobSF · APKiD ·    │
@@ -126,7 +136,8 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │            records (NVD + CISA KEV + EPSS) · Qdrant RAG (OWASP corpus)  │
 │  Observ.   Prometheus · Alertmanager · Grafana · Loki · cAdvisor ·       │
 │            Telegram alerts · daily LLM-rendered digest                   │
-│  Reliable  10 systemd watchdog timers (5-min sweep, idempotent recovery)│
+│  Reliable  10 systemd watchdogs (5-min sweep, idempotent) ·             │
+│            38-section as-built v1.4 · 11-scenario operator runbook ·    │
 │            cockpit auto-recover · libvirt snapshot before risky ops     │
 │  Security  15-min sliding session · MASVS rollup mobile compliance ·     │
 │            air-gapped scan-plane (iptables FORWARD/INPUT drops) ·       │
@@ -179,8 +190,10 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │            Non-root container · cap_drop ALL · read-only filesystem    │
 │            Auto-generated admin password · no hardcoded credentials    │
 ├──────────────────────────────────────────────────────────────────────────┤
-│  IMPACT    100% offline-capable · governance-ready · zero vendor cost  │
-│            5 network + 4 mobile tools (vendored offline fonts: IBM Plex, JetBrains Mono) · 25-page A4 PDF reports   │
+│  IMPACT    53 FastAPI endpoints · ~25K LOC across 17 modules ·         │
+│            5,059-LOC reporting engine · 22 governance templates ·      │
+│            5 network + 4 mobile tools · 100% offline-capable ·         │
+│            air-gap fonts (IBM Plex, JetBrains Mono) · zero vendor cost │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -208,7 +221,9 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │            policy/verification with optional LangChain composition      │
 │  Frontend  React 18 + GeoPulse Atlas (Leaflet) + KPI snapshots +       │
 │            30-day AI intel chat + Spline 3D splash UX                   │
-│  Backend   Python Flask · SQLAlchemy · PostgreSQL · Redis               │
+│  Backend   Python Flask (2,804-LOC routes.py · 34 endpoints) ·          │
+│            27 modules · 420 KB backend · SQLAlchemy · PostgreSQL · Redis│
+│  Bot       Telegram (95 KB) — interactive editorial workflow            │
 │  Workflow  Admin curation → AI draft → Telegram edit → publish          │
 │  Live Map  Leaflet + Check Point ThreatMap stream · 64-point bezier   │
 │            arcs · antimeridian handling · 8s refresh · live-only       │
@@ -240,9 +255,10 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │            governance for enterprise organisations                      │
 ├──────────────────────────────────────────────────────────────────────────┤
 │  AI Core   Ollama local LLM + ChromaDB RAG (vector similarity search)  │
-│  Agents    4 specialised agents — ARIA Expert · Policy Writer ·         │
-│            Compliance Reviewer · Autonomous Monitor (APScheduler,       │
-│            6-hour cycle, 8 regulatory domains via DuckDuckGo)           │
+│  Agents    4 specialised agents · 6 streaming SSE workflows             │
+│            (chat · generate · finalize · revise · review · renew)       │
+│            Autonomous Monitor — APScheduler 6-hour cycle ·              │
+│            8 regulatory domains via DuckDuckGo                          │
 │  Backend   Python FastAPI · Uvicorn · ChromaDB · LangChain             │
 │  Frontend  Next.js 16 + React 19 + TypeScript 5 + Tailwind CSS 4       │
 │            SSE streaming · token-by-token generation · inline editor    │
@@ -259,46 +275,6 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-RAG-FF6F00?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-Multi_Agent-1C3C3C?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-111111?style=flat-square)
-
----
-
-### 5. AI Job Application Bot
-> **Autonomous multi-platform job application system — 14 platforms, 10 auto-apply plugins, dual browser engines**
-
-```
-+--------------------------------------------------------------------------+
-|  MISSION   Autonomous job discovery, AI matching, and application        |
-+--------------------------------------------------------------------------+
-|  AI Core   Ollama (primary) + Anthropic Claude (fallback) + spaCy NLP   |
-|  Matching  spaCy NLP + scikit-learn skill matching (0-100 scoring)      |
-|  Q and A   3-tier: Deterministic then Template then LLM                 |
-|  Scrapers  14 platforms: LinkedIn, SEEK, JobsDB, Indeed, Bayt,          |
-|            NaukriGulf, Glassdoor, Greenhouse, Lever, Dice,               |
-|            Monster, Google Jobs, JapanDev                                |
-|  Apply     10 auto-apply plugins with Playwright + Selenium CDP         |
-|  Stealth   Anti-detection: fingerprint rotation, human simulation,      |
-|            80-250ms typing, 8-25 min random delays between applies      |
-|  Frontend  React 18 + Vite + TypeScript + Tailwind dashboard            |
-|  Backend   FastAPI + SQLAlchemy + APScheduler + Streamlit monitoring    |
-|  Control   Telegram bot: /status /applied /pause /resume /help          |
-|  Security  AES-256 encrypted credentials, per-platform session mgmt    |
-|  Testing   8 pytest suites: DB, matcher, Q and A, cover letter, e2e    |
-|  Regions   6: Australia, Singapore, Canada, GCC, US, Japan              |
-+--------------------------------------------------------------------------+
-|  IMPACT    42K LOC, zero cloud cost, regional cover letter generation   |
-+--------------------------------------------------------------------------+
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-111111?style=flat-square)
-![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat-square)
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
 ---
 
