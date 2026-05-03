@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Imran%20Batcha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20Engineer%20%C2%B7%20Cloud%20Security%20Architect%20%C2%B7%20CISM&descAlignY=58&descSize=15&descColor=94a3b8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+7%2B+Years+Enterprise+Security;AI+Security+Engineer+%E2%80%94+Building+Zero-Cost+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+%7C+DevSecOps;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;5+Production+AI+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2E86C1&center=true&vCenter=true&width=750&lines=CISM-Certified+%7C+8%2B+Years+Enterprise+Security;AI+Security+Engineer+%E2%80%94+Building+Zero-Cost+Platforms;XDR+%7C+CNAPP+%7C+Zero+Trust+%7C+CTEM+%7C+DevSecOps;Autonomous+AI+Pentest+Platform+Builder;Multi-Cloud+Architect+%E2%80%94+AWS+%7C+Azure+%7C+OCI+%7C+GCP;6+Production+AI+Platforms+%E2%80%94+Dockerized+%26+Hardened" alt="Typing SVG"/>
 
 <br/>
 
@@ -10,7 +10,7 @@
 &nbsp;
 ![CISM](https://img.shields.io/badge/CISM-ISACA_2026-FFD700?style=for-the-badge&labelColor=0a2342)
 &nbsp;
-![Experience](https://img.shields.io/badge/7%2B_Years-Enterprise_Security-2e86c1?style=for-the-badge&labelColor=0a2342)
+![Experience](https://img.shields.io/badge/8%2B_Years-Enterprise_Security-2e86c1?style=for-the-badge&labelColor=0a2342)
 &nbsp;
 [![Open to Work](https://img.shields.io/badge/Open_to-Opportunities-00a86b?style=for-the-badge&labelColor=0a2342)](https://github.com/imraneggy)
 
@@ -20,9 +20,9 @@
 
 ## About Me
 
-**AI Security Engineer** and **Cloud Security Architect** with **7+ years** in enterprise cybersecurity — spanning XDR deployment, Zero Trust architecture, CNAPP governance, and AI platform engineering.
+**AI Security Engineer** and **Cloud Security Architect** with **8+ years** in enterprise cybersecurity — spanning XDR deployment, Zero Trust architecture, CNAPP governance, and AI platform engineering.
 
-I design and build production AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Five production platforms shipped. Zero vendor lock-in.
+I design and build production AI-powered cybersecurity platforms at **$0 cloud cost** using local LLMs, edge computing, and agentic AI orchestration. Six production platforms shipped. Zero vendor lock-in.
 
 | | |
 |:---|:---|
@@ -91,6 +91,14 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 </td>
 </tr>
 </table>
+
+---
+
+## Now
+
+- 🚀 **Building [Exchangia](https://github.com/imraneggy/transfer-rate)** — Android 14+ AED→INR rate aggregator, 11 verified sources, gold-rate module, $0 ops cost. [Latest release](https://github.com/imraneggy/transfer-rate/releases/latest) · [Technical report](https://imraneggy.github.io/transfer-rate/report.html)
+- 🛠 Maintaining 6 production AI security platforms in private repos (SOC-PC1 · AI-Pentest · ARIA · AI-Cyber-Dash · AI-Job-Bot) — code walkthroughs available on request
+- 🎯 **Open to:** AI Security Engineer / Cloud Security Architect roles in **UAE** (relocation considered for SG / AU / DE)
 
 ---
 
@@ -172,7 +180,7 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │            Auto-generated admin password · no hardcoded credentials    │
 ├──────────────────────────────────────────────────────────────────────────┤
 │  IMPACT    100% offline-capable · governance-ready · zero vendor cost  │
-│            9 network tools + 4 mobile tools · 25-page A4 PDF reports   │
+│            5 network + 4 mobile tools (vendored offline fonts: IBM Plex, JetBrains Mono) · 25-page A4 PDF reports   │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -202,7 +210,12 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │            30-day AI intel chat + Spline 3D splash UX                   │
 │  Backend   Python Flask · SQLAlchemy · PostgreSQL · Redis               │
 │  Workflow  Admin curation → AI draft → Telegram edit → publish          │
-│  Integr.   MCP fetch proxy · n8n automation · Docker Compose · Nginx   │
+│  Live Map  Leaflet + Check Point ThreatMap stream · 64-point bezier   │
+│            arcs · antimeridian handling · 8s refresh · live-only       │
+│  Sources   20+ RSS feeds · SHA-256 dedup · EV/automotive scoring boost │
+│  Workflow  05:45 Asia/Dubai cron → Telegram preview → CISO approval → │
+│            top 5 surface on dashboard · 30-day retention · MCP server  │
+│  Integr.   n8n automation · Docker Compose · Nginx                     │
 ├──────────────────────────────────────────────────────────────────────────┤
 │  IMPACT    $0 cloud cost · privacy-preserving · daily C-suite briefings│
 └──────────────────────────────────────────────────────────────────────────┘
@@ -227,12 +240,14 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 │            governance for enterprise organisations                      │
 ├──────────────────────────────────────────────────────────────────────────┤
 │  AI Core   Ollama local LLM + ChromaDB RAG (vector similarity search)  │
-│  Agents    3 specialised agents — ARIA Expert · Policy Writer ·         │
-│            Compliance Auditor (LangChain multi-agent orchestration)     │
+│  Agents    4 specialised agents — ARIA Expert · Policy Writer ·         │
+│            Compliance Reviewer · Autonomous Monitor (APScheduler,       │
+│            6-hour cycle, 8 regulatory domains via DuckDuckGo)           │
 │  Backend   Python FastAPI · Uvicorn · ChromaDB · LangChain             │
-│  Frontend  React 18 + real-time streaming chat + policy editor          │
-│  Coverage  ISO 27001:2022 · regional data-protection laws · NIST CSF 2.0 ·       │
-│            CIS v8 · GDPR · NIS2 · DORA · OWASP                        │
+│  Frontend  Next.js 16 + React 19 + TypeScript 5 + Tailwind CSS 4       │
+│            SSE streaming · token-by-token generation · inline editor    │
+│  Coverage  UAE NESA · ISO 27001:2022 · UAE PDPL · NIST CSF 2.0 ·       │
+│            CIS Controls v8 · ADDA · UAE Cybersecurity Law              │
 │  Output    Policy drafts · compliance scorecards · gap analysis         │
 ├──────────────────────────────────────────────────────────────────────────┤
 │  IMPACT    Automated GRC governance · audit-ready output · $0 cost     │
@@ -416,6 +431,10 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-imraneggy-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imraneggy)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imranbatcha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imranbatcha)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-imranbatchait%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranbatchait@gmail.com)
 
 <br/>
 
