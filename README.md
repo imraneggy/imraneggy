@@ -27,10 +27,10 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 | | |
 |:---|:---|
 | **Role** | AI Security Engineer · Cloud Security Architect · Production AI Platform Architect |
-| **Certifications** | CISM · OCI Multicloud Architect · OCI Gen AI Professional · OCI AI Foundations · AZ-900 · Cisco Ethical Hacker · Cisco Cybersecurity Analyst · Cisco Network Defense · Cisco Endpoint Security · CWHH · C-WAST |
+| **Certifications** | CISM · CISSP (In Progress) · OCI Multicloud Architect · OCI Gen AI Professional · OCI AI Foundations · AZ-900 · Cisco Ethical Hacker · Cisco Cybersecurity Analyst · Cisco Network Defense · Cisco Endpoint Security · CWHH · C-WAST |
 | **Education** | M.Sc. Cyber Forensics & Information Security — First Class (76%) |
-| **Specialisation** | XDR · CNAPP · Zero Trust · CTEM · Agentic AI Security · Multi-Agent Orchestration · Voice AI · Edge Compute · Serverless Security · AI Red Teaming · DevSecOps · GRC Automation |
-| **Frameworks** | NIST CSF 2.0 · ISO 27001:2022 · MITRE ATT&CK · CIS v8 · OWASP · MASVS L1 · GDPR · NIS2 · DORA · SAMA · EU AI Act |
+| **Specialisation** | XDR · CNAPP · Zero Trust · CTEM · Purple Teaming · ITDR & Non-Human Identity Security · AI-SPM · Agentic AI Security · Multi-Agent Orchestration · Voice AI · Edge Compute · Serverless Security · AI Red Teaming · DevSecOps · GRC Automation |
+| **Frameworks** | NIST CSF 2.0 · ISO 27001:2022 · ISO/IEC 42001:2023 (AI Management System) · MITRE ATT&CK · CIS v8 · OWASP · MASVS L1 · GDPR · NIS2 · DORA · SAMA · EU AI Act |
 | **Languages** | English (Professional) · Tamil (Native) · Hindi (Conversational) · Arabic (Basic) |
 
 
@@ -66,13 +66,14 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 <td width="50%" valign="top">
 
 ### Security Operations & Architecture
-- **XDR/EDR** — Unified telemetry across endpoint, network, email, cloud (Trend Micro Vision One)
+- **XDR/EDR** — Trend Micro Vision One + Microsoft Defender XDR (MDE/MDO/MDI/MDCA), unified endpoint/network/email/cloud telemetry
+- **SIEM & SOC Automation** — Microsoft Sentinel (KQL, analytics & automation rules, UEBA) within Unified SecOps · SOC L2/L3 incident response
+- **AI-Assisted SOC** — Microsoft Security Copilot–driven agentic triage & incident summarisation
 - **CNAPP** — Cloud-native posture management with custom compliance policies (Palo Alto Prisma Cloud)
-- **Zero Trust** — Conditional Access, PAM governance, ZTNA, micro-segmentation
-- **SOAR** — Automated playbooks with MITRE ATT&CK correlation
-- **SIEM** — Cross-layer detection engineering, alert tuning, false positive reduction
+- **Zero Trust & ITDR** — Conditional Access, PAM governance, ZTNA, micro-segmentation, Non-Human Identity Security
+- **SOAR & Purple Teaming** — Automated playbooks with MITRE ATT&CK correlation and adversary-emulation validation
 - **NAC** — Network access control and micro-segmentation at enterprise scale (FortiNAC)
-- **ASM** — Attack surface discovery, shadow IT identification, exposure management
+- **CTEM/ASM** — Continuous threat exposure & attack surface management, shadow IT discovery
 - **VAPT** — Vulnerability assessment and penetration testing (Burp Suite, Nmap, Nuclei, SQLMap)
 
 </td>
@@ -81,14 +82,15 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 ### AI Engineering & Platform Development
 - **Local LLMs** — llama.cpp, Ollama, GGUF model deployment on edge hardware
 - **Agentic AI** — Multi-agent orchestration with LangChain, LangGraph, ReAct patterns
-- **RAG Pipelines** — ChromaDB vector search for policy/compliance knowledge retrieval
+- **RAG Pipelines** — ChromaDB/Qdrant vector search for policy/compliance knowledge retrieval
 - **Edge AI** — NVIDIA Jetson deployment for air-gapped, offline-capable inference
+- **AI-SPM & AI Red Teaming** — OWASP LLM Top 10, prompt-injection defence, LLM guardrails (NeMo/Llama Guard)
+- **AI Governance** — EU AI Act readiness, ISO/IEC 42001:2023 AI Management System, NIST AI RMF
 - **Full-Stack** — Python (FastAPI, Flask), React 18, PostgreSQL, Redis, SQLite
-- **Docker & DevSecOps** — Container hardening, CI/CD security, Shift-Left practices
-- **Multi-Cloud** — AWS, Azure, OCI, GCP — architecture, security, and governance
-- **GRC Automation** — ISO 27001, NIST CSF, CIS v8, OWASP, GDPR, NIS2, DORA, SAMA
+- **Docker & DevSecOps** — Container hardening, CI/CD security, Shift-Left practices, supply-chain (SLSA/SBOM/AIBOM)
+- **Multi-Cloud** — AWS, Azure, OCI, GCP, Cloudflare — architecture, security, and governance
+- **Cryptography** — Post-Quantum Cryptography (FIPS 203/204/205) readiness
 - **AI-Assisted Dev** — Claude Code, OpenAI Codex, Google AI Studio, NotebookLM
-- **Testing & Automation** — Playwright E2E, Selenium CDP, pytest, CI/CD pipelines
 
 </td>
 </tr>
@@ -98,10 +100,10 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ## Now
 
-- 🚀 **Building [Exchangia](https://github.com/imraneggy/transfer-rate)** (personal R&D, source open, not yet on Play Store) — Android 14+ AED→INR remittance + gold-rate aggregator · 11 verified sources · WorkManager + GitHub Actions cron · $0 ops cost · [Releases](https://github.com/imraneggy/transfer-rate/releases) · [Technical report](https://imraneggy.github.io/transfer-rate/report.html)
+- 🚀 **Shipping [Transfer Rate](https://github.com/imraneggy/transfer-rate)** (personal R&D, MIT licensed, live on Google Play + F-Droid) — Android remittance + precious-metals rate aggregator · **13 verified providers across 10 currency corridors** vs. a live Google Finance mid-market benchmark · gold & silver "what this buys" purchasing calculator · ~3.4 MB universal APK, zero native deps · [Releases](https://github.com/imraneggy/transfer-rate/releases) · [Technical report](https://imraneggy.github.io/transfer-rate/report.html)
 - 📡 **Shipping [CyberBriefs](https://github.com/imraneggy/Cyberbriefs)** — Serverless security-awareness distribution · multi-LLM fallback · Cloudflare Worker Telegram approval webhook · Instagram Graph API idempotent publish · $0/month
-- 🛠 Maintaining **6 production AI security platforms** in private repos (multi-VM on-prem SOC · autonomous pentest x86+Jetson edge · agentic GRC · CISO threat intel · multi-agent on-device assistant) — code walkthroughs + live demos available on request
-- 🎯 **Open to:** Senior AI Security Engineer / Cloud Security Architect / GenAI Security roles
+- 🛠 Maintaining **6 production AI security platforms** in private repos (multi-VM on-prem SOC · autonomous pentest x86+Jetson edge · agentic GRC · CISO threat intel · multi-agent cloud+on-device assistant) — code walkthroughs + live demos available on request
+- 🎯 **Open to:** Senior AI Security Engineer / Cloud Security Architect / GenAI Security roles — **Remote (Global) & Relocation**
 - 🌏 **Locations:** UAE (immediate joiner) · GCC · Singapore · Australia · Canada · Germany · Netherlands · USA — **H-1B / EU Blue Card / GCC / SG EP sponsorship welcome**
 
 ---
@@ -170,8 +172,8 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ---
 
-### 2. Autonomous Penetration Testing Platform
-> **Edge-deployed AI pentest platform — network + mobile APK security, production Docker deployment with full security hardening**
+### 2. Edge Pentest Appliance — NVIDIA Jetson AI Security Platform
+> **Field-deployable autonomous AI pentest platform — network + mobile APK security, 100% on-device inference, production Docker deployment with full security hardening**
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -282,8 +284,10 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ---
 
-### 5. EVA — Privacy-First Multi-Agent AI Platform (On-Device)
-> **Production multi-agent assistant — 6 sub-agents · 17+ tools · 4-tier approval gate · 100% on-device · encrypted personal data**
+### 5. EVA — AI Security Reference Architecture (Cloud + Edge)
+> **Dual-deployment multi-agent assistant — Cloudflare Workers cloud variant (6-provider LLM cascade, OAuth 2.0/OIDC + MCP client hardening) paired with an air-gapped on-device variant — 6 sub-agents · 17+ tools · 4-tier approval gate · encrypted personal data**
+
+The on-device variant below is one half of a dual cloud-edge architecture. The companion **cloud variant** is a TypeScript / Cloudflare Workers AI security reference build featuring a **6-provider LLM cascade** with automatic failover, **OAuth 2.0/OIDC + MCP client hardening**, and the same 4-tier policy-gate pattern — demonstrating architectural fluency from zero-egress edge to serverless cloud.
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -364,7 +368,7 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ### Public Open-Source Repositories
 
-- **[transfer-rate](https://github.com/imraneggy/transfer-rate)** — Exchangia Android app source (Kotlin · Jetpack Compose · Material 3 · 11 live rate sources · gold module · $0 ops). Personal R&D, source open, not yet on Play Store.
+- **[transfer-rate](https://github.com/imraneggy/transfer-rate)** — Transfer Rate Android app source (Kotlin · Jetpack Compose · Material 3 · 13 verified providers across 10 currency corridors · gold & silver purchasing calculator · ~3.4 MB zero-native-dep APK · $0 ops). MIT licensed, personal R&D, live on Google Play + F-Droid.
 - **[Cyberbriefs](https://github.com/imraneggy/Cyberbriefs)** — Serverless cybersecurity awareness content engine (described above)
 
 ---
@@ -376,6 +380,9 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 <br/>
 
 ![Vision One XDR](https://img.shields.io/badge/Trend_Micro_Vision_One-XDR-D71921?style=for-the-badge&labelColor=0a2342)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-SIEM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0a2342)
+![Defender XDR](https://img.shields.io/badge/Microsoft_Defender_XDR-Unified_SecOps-0078D4?style=for-the-badge&logo=windowsdefender&logoColor=white&labelColor=0a2342)
+![Security Copilot](https://img.shields.io/badge/Microsoft_Security_Copilot-AI_SOC-0078D4?style=for-the-badge&labelColor=0a2342)
 ![Prisma Cloud](https://img.shields.io/badge/Palo_Alto-Prisma_Cloud_CNAPP-2e86c1?style=for-the-badge&labelColor=0a2342)
 ![FortiNAC](https://img.shields.io/badge/FortiNAC-NAC-EE3124?style=for-the-badge&labelColor=0a2342)
 ![Arcon PAM](https://img.shields.io/badge/Arcon-PAM-1a5276?style=for-the-badge&labelColor=0a2342)
@@ -449,6 +456,9 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 ![GDPR](https://img.shields.io/badge/GDPR-003399?style=for-the-badge&labelColor=0a2342)
 ![NIS2](https://img.shields.io/badge/NIS2_Directive-003399?style=for-the-badge&labelColor=0a2342)
 ![DORA](https://img.shields.io/badge/DORA-003399?style=for-the-badge&labelColor=0a2342)
+![EU AI Act](https://img.shields.io/badge/EU_AI_Act-Readiness-FFD700?style=for-the-badge&labelColor=0a2342)
+![ISO 42001](https://img.shields.io/badge/ISO%2FIEC_42001:2023-AI_Mgmt_System-FFD700?style=for-the-badge&labelColor=0a2342)
+![Post-Quantum](https://img.shields.io/badge/Post--Quantum_Crypto-FIPS_203%2F204%2F205-003366?style=for-the-badge&labelColor=0a2342)
 
 </details>
 
@@ -459,6 +469,7 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 | | Certification | Issuer | Year |
 |:--|:-------------|:-------|:-----|
 | ⭐ | **CISM** — Certified Information Security Manager | ISACA | 2026 |
+| ⭐ | **CISSP** — Certified Information Systems Security Professional | ISC2 | In Progress |
 | ☁️ | **OCI Generative AI Professional** | Oracle | 2025 |
 | ☁️ | **OCI Multicloud Architect Professional** | Oracle | 2025 |
 | 🤖 | **OCI AI Foundations Associate** | Oracle | 2025 |
@@ -466,8 +477,11 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 | 🪟 | **AZ-900** — Azure Fundamentals | Microsoft | 2024 |
 | 🔓 | **CWHH** — Certified White Hat Hacker (L1 & L2) | — | 2023 |
 | 🔓 | **C-WAST** — Certified Web Application Security Tester | — | 2023 |
+| 🌐 | **Certified Ethical Hacker** | Cisco | — |
+| 🌐 | **Certified Cybersecurity Analyst** | Cisco | — |
+| 🌐 | **Certified Network Defense Specialist** | Cisco | — |
+| 🌐 | **Certified Endpoint Security Specialist** | Cisco | — |
 | 📋 | **ISMS Trained Auditor** — ISO/IEC 27001:2022 | — | 2022 |
-| 🌐 | **CCNA** — Cisco Certified Network Associate | Cisco | 2021 |
 
 ---
 
