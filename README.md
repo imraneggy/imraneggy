@@ -284,8 +284,8 @@ I design and build production AI-powered cybersecurity platforms at **$0 cloud c
 
 ---
 
-### 5. EVA — AI Security Reference Architecture (Cloud + Edge)
-> **Dual-deployment multi-agent assistant — Cloudflare Workers cloud variant (6-provider LLM cascade, OAuth 2.0/OIDC + MCP client hardening) paired with an air-gapped on-device variant — 6 sub-agents · 17+ tools · 4-tier approval gate · encrypted personal data**
+### 5. EVA — Privacy-First AI Security Reference Architecture (Cloud + Edge)
+> **Dual-deployment multi-agent security platform — Cloudflare Workers cloud variant (6-provider LLM cascade, OAuth 2.0/OIDC + MCP client hardening) paired with an air-gapped, privacy-preserving on-device variant — 6 sub-agents · 17+ tools · 4-tier approval gate · encrypted at rest**
 
 The on-device variant below is one half of a dual cloud-edge architecture. The companion **cloud variant** is a TypeScript / Cloudflare Workers AI security reference build featuring a **6-provider LLM cascade** with automatic failover, **OAuth 2.0/OIDC + MCP client hardening**, and the same 4-tier policy-gate pattern — demonstrating architectural fluency from zero-egress edge to serverless cloud.
 
